@@ -1,0 +1,3613 @@
+{
+    "Books": [
+        {
+            "Book Name": "The Silent Horizon",
+            "Book ID": 1001,
+            "Author Name": "Arthur Vance",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Shadows of Eldoria",
+            "Book ID": 1002,
+            "Author Name": "Elena Rostova",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Whispers in the Dark",
+            "Book ID": 1003,
+            "Author Name": "Marcus Thorne",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Echoes of Eternity",
+            "Book ID": 1004,
+            "Author Name": "Clara Higgins",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Quantum Cipher",
+            "Book ID": 1005,
+            "Author Name": "David Chen",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Chronicles of Nebulae",
+            "Book ID": 1006,
+            "Author Name": "Sophia Blackwood",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Beyond the Veil",
+            "Book ID": 1007,
+            "Author Name": "Lucas Sterling",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Heart of Steel",
+            "Book ID": 1008,
+            "Author Name": "Aria Mercer",
+            "Book Genre": "Emotional",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Crimson Legacy",
+            "Book ID": 1009,
+            "Author Name": "Oliver Hayes",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Mindset Mastery",
+            "Book ID": 1010,
+            "Author Name": "Emma Drake",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Beneath Starlight",
+            "Book ID": 1011,
+            "Author Name": "Arthur Sterling",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Last Sentinel",
+            "Book ID": 1012,
+            "Author Name": "Elena Vance",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Forgotten Realm",
+            "Book ID": 1013,
+            "Author Name": "Marcus Higgins",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Void Protocol",
+            "Book ID": 1014,
+            "Author Name": "Clara Chen",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Obsidian Key",
+            "Book ID": 1015,
+            "Author Name": "David Rostova",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Secrets of the Forest",
+            "Book ID": 1016,
+            "Author Name": "Sophia Mercer",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Infinite Loop",
+            "Book ID": 1017,
+            "Author Name": "Lucas Thorne",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Tears of Gold",
+            "Book ID": 1018,
+            "Author Name": "Aria Drake",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Empire of Dust",
+            "Book ID": 1019,
+            "Author Name": "Oliver Blackwood",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Path to Peace",
+            "Book ID": 1020,
+            "Author Name": "Emma Hayes",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Starlight Odyssey",
+            "Book ID": 1021,
+            "Author Name": "Arthur Chen",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Iron Fortress",
+            "Book ID": 1022,
+            "Author Name": "Elena Thorne",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Silent Tears",
+            "Book ID": 1023,
+            "Author Name": "Marcus Rostova",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Midnight Murmurs",
+            "Book ID": 1024,
+            "Author Name": "Clara Vance",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Glass Castle",
+            "Book ID": 1025,
+            "Author Name": "David Sterling",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Apex Predator",
+            "Book ID": 1026,
+            "Author Name": "Sophia Hayes",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Enchanted Echoes",
+            "Book ID": 1027,
+            "Author Name": "Lucas Mercer",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Love in Autumn",
+            "Book ID": 1028,
+            "Author Name": "Aria Higgins",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Digital Fortress",
+            "Book ID": 1029,
+            "Author Name": "Oliver Drake",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Unlocking Potential",
+            "Book ID": 1030,
+            "Author Name": "Emma Blackwood",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Phantom Ship",
+            "Book ID": 1031,
+            "Author Name": "Arthur Hayes",
+            "Book Genre": "Mystery",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Kingdom of Sand",
+            "Book ID": 1032,
+            "Author Name": "Elena Mercer",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Haunted Hills",
+            "Book ID": 1033,
+            "Author Name": "Marcus Drake",
+            "Book Genre": "Horror",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Whispers of Hope",
+            "Book ID": 1034,
+            "Author Name": "Clara Sterling",
+            "Book Genre": "Emotional",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Vortex of Time",
+            "Book ID": 1035,
+            "Author Name": "David Vance",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Rogue Agent",
+            "Book ID": 1036,
+            "Author Name": "Sophia Higgins",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Moonlit Promises",
+            "Book ID": 1037,
+            "Author Name": "Lucas Blackwood",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Dragon's Blood",
+            "Book ID": 1038,
+            "Author Name": "Aria Rostova",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Secret Passage",
+            "Book ID": 1039,
+            "Author Name": "Oliver Thorne",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Habits of Success",
+            "Book ID": 1040,
+            "Author Name": "Emma Chen",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Celestial Wings",
+            "Book ID": 1041,
+            "Author Name": "Arthur Drake",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Cyber Nexus",
+            "Book ID": 1042,
+            "Author Name": "Elena Higgins",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Broken Symphony",
+            "Book ID": 1043,
+            "Author Name": "Marcus Blackwood",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Curse of the Tomb",
+            "Book ID": 1044,
+            "Author Name": "Clara Rostova",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Target Acquired",
+            "Book ID": 1045,
+            "Author Name": "David Mercer",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Sunken Treasures",
+            "Book ID": 1046,
+            "Author Name": "Sophia Vance",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Winter Romance",
+            "Book ID": 1047,
+            "Author Name": "Lucas Thorne",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Fading Memories",
+            "Book ID": 1048,
+            "Author Name": "Aria Chen",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Alchemist's Secret",
+            "Book ID": 1049,
+            "Author Name": "Oliver Sterling",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Mindful Life",
+            "Book ID": 1050,
+            "Author Name": "Emma Mercer",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Astro Protocol",
+            "Book ID": 1051,
+            "Author Name": "Arthur Blackwood",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Shadow Over Rome",
+            "Book ID": 1052,
+            "Author Name": "Elena Chen",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Crimson Night",
+            "Book ID": 1053,
+            "Author Name": "Marcus Sterling",
+            "Book Genre": "Horror",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Missing Evidence",
+            "Book ID": 1054,
+            "Author Name": "Clara Hayes",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Heartbeat",
+            "Book ID": 1055,
+            "Author Name": "David Drake",
+            "Book Genre": "Emotional",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Deep State",
+            "Book ID": 1056,
+            "Author Name": "Sophia Rostova",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Starbound",
+            "Book ID": 1057,
+            "Author Name": "Lucas Vance",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Enchanted Forest",
+            "Book ID": 1058,
+            "Author Name": "Aria Thorne",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Forever & Always",
+            "Book ID": 1059,
+            "Author Name": "Oliver Higgins",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Mastering Focus",
+            "Book ID": 1060,
+            "Author Name": "Emma Vance",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Lost City",
+            "Book ID": 1061,
+            "Author Name": "Arthur Rostova",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Dark Matter",
+            "Book ID": 1062,
+            "Author Name": "Elena Drake",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Shattered Dreams",
+            "Book ID": 1063,
+            "Author Name": "Marcus Mercer",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Voice in the Cellar",
+            "Book ID": 1064,
+            "Author Name": "Clara Blackwood",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Silent Witness",
+            "Book ID": 1065,
+            "Author Name": "David Higgins",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "High Treason",
+            "Book ID": 1066,
+            "Author Name": "Sophia Sterling",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Realm of Magic",
+            "Book ID": 1067,
+            "Author Name": "Lucas Hayes",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Summer Breeze",
+            "Book ID": 1068,
+            "Author Name": "Aria Vance",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Galactic Empire",
+            "Book ID": 1069,
+            "Author Name": "Oliver Chen",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Financial Freedom",
+            "Book ID": 1070,
+            "Author Name": "Emma Rostova",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Ancient Civilizations",
+            "Book ID": 1071,
+            "Author Name": "Arthur Higgins",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Haunting",
+            "Book ID": 1072,
+            "Author Name": "Elena Sterling",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Tears of Joy",
+            "Book ID": 1073,
+            "Author Name": "Marcus Chen",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Cold Case",
+            "Book ID": 1074,
+            "Author Name": "Clara Thorne",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Double Agent",
+            "Book ID": 1075,
+            "Author Name": "David Blackwood",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Spellbound",
+            "Book ID": 1076,
+            "Author Name": "Sophia Drake",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "First Love",
+            "Book ID": 1077,
+            "Author Name": "Lucas Rostova",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Time Traveler",
+            "Book ID": 1078,
+            "Author Name": "Aria Sterling",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The War Chronicles",
+            "Book ID": 1079,
+            "Author Name": "Oliver Mercer",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Daily Stoic",
+            "Book ID": 1080,
+            "Author Name": "Emma Thorne",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Sorcerer's Stone",
+            "Book ID": 1081,
+            "Author Name": "Arthur Mercer",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Solar Flare",
+            "Book ID": 1082,
+            "Author Name": "Elena Hayes",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Broken Promises",
+            "Book ID": 1083,
+            "Author Name": "Marcus Vance",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Poltergeist",
+            "Book ID": 1084,
+            "Author Name": "Clara Mercer",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Fugitive",
+            "Book ID": 1085,
+            "Author Name": "David Thorne",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Historical Epochs",
+            "Book ID": 1086,
+            "Author Name": "Sophia Chen",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "A Second Chance",
+            "Book ID": 1087,
+            "Author Name": "Lucas Drake",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Clue",
+            "Book ID": 1088,
+            "Author Name": "Aria Hayes",
+            "Book Genre": "Mystery",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Beyond Nebula",
+            "Book ID": 1089,
+            "Author Name": "Oliver Rostova",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Core Habits",
+            "Book ID": 1090,
+            "Author Name": "Emma Higgins",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Shadow King",
+            "Book ID": 1091,
+            "Author Name": "Arthur Thorne",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Dynasty",
+            "Book ID": 1092,
+            "Author Name": "Elena Blackwood",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Grim Reaper",
+            "Book ID": 1093,
+            "Author Name": "Marcus Hayes",
+            "Book Genre": "Horror",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Finding Joy",
+            "Book ID": 1094,
+            "Author Name": "Clara Drake",
+            "Book Genre": "Emotional",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Terminal Velocity",
+            "Book ID": 1095,
+            "Author Name": "David Vance",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Hidden Key",
+            "Book ID": 1096,
+            "Author Name": "Sophia Mercer",
+            "Book Genre": "Mystery",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Starship One",
+            "Book ID": 1097,
+            "Author Name": "Lucas Sterling",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "True Devotion",
+            "Book ID": 1098,
+            "Author Name": "Aria Blackwood",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Elven Prophecy",
+            "Book ID": 1099,
+            "Author Name": "Oliver Vance",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Overcoming Limits",
+            "Book ID": 1100,
+            "Author Name": "Emma Sterling",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Quantum Horizon",
+            "Book ID": 1101,
+            "Author Name": "Arthur Vance",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Fallen Kingdom",
+            "Book ID": 1102,
+            "Author Name": "Elena Rostova",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Nightmare Manor",
+            "Book ID": 1103,
+            "Author Name": "Marcus Thorne",
+            "Book Genre": "Horror",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Eternal Sunshine",
+            "Book ID": 1104,
+            "Author Name": "Clara Higgins",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Cipher Code",
+            "Book ID": 1105,
+            "Author Name": "David Chen",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Starlight Legacy",
+            "Book ID": 1106,
+            "Author Name": "Sophia Blackwood",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Cold Case File",
+            "Book ID": 1107,
+            "Author Name": "Lucas Sterling",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Silent Sorrow",
+            "Book ID": 1108,
+            "Author Name": "Aria Mercer",
+            "Book Genre": "Emotional",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Crusades",
+            "Book ID": 1109,
+            "Author Name": "Oliver Hayes",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Productivity Hack",
+            "Book ID": 1110,
+            "Author Name": "Emma Drake",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Romantic Getaway",
+            "Book ID": 1111,
+            "Author Name": "Arthur Sterling",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Neon Cyberpunk",
+            "Book ID": 1112,
+            "Author Name": "Elena Vance",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Mythical Beasts",
+            "Book ID": 1113,
+            "Author Name": "Marcus Higgins",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Saboteur",
+            "Book ID": 1114,
+            "Author Name": "Clara Chen",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Enigma of the Pyramid",
+            "Book ID": 1115,
+            "Author Name": "David Rostova",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Wand Weaver",
+            "Book ID": 1116,
+            "Author Name": "Sophia Mercer",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Space Colony 9",
+            "Book ID": 1117,
+            "Author Name": "Lucas Thorne",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Healing Hearts",
+            "Book ID": 1118,
+            "Author Name": "Aria Drake",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Roman Empire Decline",
+            "Book ID": 1119,
+            "Author Name": "Oliver Blackwood",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Inner Peace",
+            "Book ID": 1120,
+            "Author Name": "Emma Hayes",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Supernova Collision",
+            "Book ID": 1121,
+            "Author Name": "Arthur Chen",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Viking Siege",
+            "Book ID": 1122,
+            "Author Name": "Elena Thorne",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Solitary Tears",
+            "Book ID": 1123,
+            "Author Name": "Marcus Rostova",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Screams in the Fog",
+            "Book ID": 1124,
+            "Author Name": "Clara Vance",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Dragon Realm",
+            "Book ID": 1125,
+            "Author Name": "David Sterling",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Rogue Agent 2",
+            "Book ID": 1126,
+            "Author Name": "Sophia Hayes",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Mystic Forest",
+            "Book ID": 1127,
+            "Author Name": "Lucas Mercer",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Heartbeat Connection",
+            "Book ID": 1128,
+            "Author Name": "Aria Higgins",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Artificial Intelligence",
+            "Book ID": 1129,
+            "Author Name": "Oliver Drake",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Peak Performance",
+            "Book ID": 1130,
+            "Author Name": "Emma Blackwood",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Ghost Ship",
+            "Book ID": 1131,
+            "Author Name": "Arthur Hayes",
+            "Book Genre": "Mystery",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Ancient Egypt",
+            "Book ID": 1132,
+            "Author Name": "Elena Mercer",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Evil Within",
+            "Book ID": 1133,
+            "Author Name": "Marcus Drake",
+            "Book Genre": "Horror",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Tears of Joy 2",
+            "Book ID": 1134,
+            "Author Name": "Clara Sterling",
+            "Book Genre": "Emotional",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Wormhole Theory",
+            "Book ID": 1135,
+            "Author Name": "David Vance",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Target Lock",
+            "Book ID": 1136,
+            "Author Name": "Sophia Higgins",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Love in Paris",
+            "Book ID": 1137,
+            "Author Name": "Lucas Blackwood",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Wizard Legacy",
+            "Book ID": 1138,
+            "Author Name": "Aria Rostova",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Murder on 5th Ave",
+            "Book ID": 1139,
+            "Author Name": "Oliver Thorne",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Atomic Habits",
+            "Book ID": 1140,
+            "Author Name": "Emma Chen",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Phoenix Rising",
+            "Book ID": 1141,
+            "Author Name": "Arthur Drake",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Sub-Zero Protocol",
+            "Book ID": 1142,
+            "Author Name": "Elena Higgins",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Shattered Glass",
+            "Book ID": 1143,
+            "Author Name": "Marcus Blackwood",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Creepy Whispers",
+            "Book ID": 1144,
+            "Author Name": "Clara Rostova",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Undercover Ops",
+            "Book ID": 1145,
+            "Author Name": "David Mercer",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Great War",
+            "Book ID": 1146,
+            "Author Name": "Sophia Vance",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Sunset Kiss",
+            "Book ID": 1147,
+            "Author Name": "Lucas Thorne",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Deep Emotion",
+            "Book ID": 1148,
+            "Author Name": "Aria Chen",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Sorceress",
+            "Book ID": 1149,
+            "Author Name": "Oliver Sterling",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Power of Now",
+            "Book ID": 1150,
+            "Author Name": "Emma Mercer",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Galactic War",
+            "Book ID": 1151,
+            "Author Name": "Arthur Blackwood",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Medieval Europe",
+            "Book ID": 1152,
+            "Author Name": "Elena Chen",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Haunted Cabin",
+            "Book ID": 1153,
+            "Author Name": "Marcus Sterling",
+            "Book Genre": "Horror",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Stolen Art",
+            "Book ID": 1154,
+            "Author Name": "Clara Hayes",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Lost Soul",
+            "Book ID": 1155,
+            "Author Name": "David Drake",
+            "Book Genre": "Emotional",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Cyber Espionage",
+            "Book ID": 1156,
+            "Author Name": "Sophia Rostova",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Deep Space Nine",
+            "Book ID": 1157,
+            "Author Name": "Lucas Vance",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Elf Haven",
+            "Book ID": 1158,
+            "Author Name": "Aria Thorne",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Forever Mine",
+            "Book ID": 1159,
+            "Author Name": "Oliver Higgins",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Thinking Fast & Slow",
+            "Book ID": 1160,
+            "Author Name": "Emma Vance",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Renaissance",
+            "Book ID": 1161,
+            "Author Name": "Arthur Rostova",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Black Hole Collision",
+            "Book ID": 1162,
+            "Author Name": "Elena Drake",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Heartbreak Ridge",
+            "Book ID": 1163,
+            "Author Name": "Marcus Mercer",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Shadows Follow",
+            "Book ID": 1164,
+            "Author Name": "Clara Blackwood",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Unsolved Mysteries",
+            "Book ID": 1165,
+            "Author Name": "David Higgins",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Blackout Threat",
+            "Book ID": 1166,
+            "Author Name": "Sophia Sterling",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Golden Sword",
+            "Book ID": 1167,
+            "Author Name": "Lucas Hayes",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Last Love Letter",
+            "Book ID": 1168,
+            "Author Name": "Aria Vance",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Alien Contact",
+            "Book ID": 1169,
+            "Author Name": "Oliver Chen",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Emotional Intelligence",
+            "Book ID": 1170,
+            "Author Name": "Emma Rostova",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Cold War Secrets",
+            "Book ID": 1171,
+            "Author Name": "Arthur Higgins",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Midnight Screams",
+            "Book ID": 1172,
+            "Author Name": "Elena Sterling",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Tears of the Heart",
+            "Book ID": 1173,
+            "Author Name": "Marcus Chen",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Murder Mystery 101",
+            "Book ID": 1174,
+            "Author Name": "Clara Thorne",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Infiltration",
+            "Book ID": 1175,
+            "Author Name": "David Blackwood",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Dragon's Lair",
+            "Book ID": 1176,
+            "Author Name": "Sophia Drake",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Love in Venice",
+            "Book ID": 1177,
+            "Author Name": "Lucas Rostova",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Interstellar Fleet",
+            "Book ID": 1178,
+            "Author Name": "Aria Sterling",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Ancient Greece",
+            "Book ID": 1179,
+            "Author Name": "Oliver Mercer",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Subtle Art",
+            "Book ID": 1180,
+            "Author Name": "Emma Thorne",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Wizards of the Realm",
+            "Book ID": 1181,
+            "Author Name": "Arthur Mercer",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Solar Eclipse",
+            "Book ID": 1182,
+            "Author Name": "Elena Hayes",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Shattered Trust",
+            "Book ID": 1183,
+            "Author Name": "Marcus Vance",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Asylum",
+            "Book ID": 1184,
+            "Author Name": "Clara Mercer",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Manhunt",
+            "Book ID": 1185,
+            "Author Name": "David Thorne",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Industrial Revolution",
+            "Book ID": 1186,
+            "Author Name": "Sophia Chen",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Sweet Romance",
+            "Book ID": 1187,
+            "Author Name": "Lucas Drake",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Cipher Key",
+            "Book ID": 1188,
+            "Author Name": "Aria Hayes",
+            "Book Genre": "Mystery",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Star Genesis",
+            "Book ID": 1189,
+            "Author Name": "Oliver Rostova",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Daily Habits",
+            "Book ID": 1190,
+            "Author Name": "Emma Higgins",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Ring of Power",
+            "Book ID": 1191,
+            "Author Name": "Arthur Thorne",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Ottoman Empire",
+            "Book ID": 1192,
+            "Author Name": "Elena Blackwood",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Demon's Lair",
+            "Book ID": 1193,
+            "Author Name": "Marcus Hayes",
+            "Book Genre": "Horror",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Emotional Healing",
+            "Book ID": 1194,
+            "Author Name": "Clara Drake",
+            "Book Genre": "Emotional",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Assassin",
+            "Book ID": 1195,
+            "Author Name": "David Vance",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Missing Heiress",
+            "Book ID": 1196,
+            "Author Name": "Sophia Mercer",
+            "Book Genre": "Mystery",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Deep Space Station",
+            "Book ID": 1197,
+            "Author Name": "Lucas Sterling",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Love in Spring",
+            "Book ID": 1198,
+            "Author Name": "Aria Blackwood",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Magic Wand",
+            "Book ID": 1199,
+            "Author Name": "Oliver Vance",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Success Mindset",
+            "Book ID": 1200,
+            "Author Name": "Emma Sterling",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Astral Odyssey",
+            "Book ID": 1201,
+            "Author Name": "Arthur Vance",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Shadows of Valhalla",
+            "Book ID": 1202,
+            "Author Name": "Elena Rostova",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Echoes in the Attic",
+            "Book ID": 1203,
+            "Author Name": "Marcus Thorne",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Summer of '99",
+            "Book ID": 1204,
+            "Author Name": "Clara Higgins",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Matrix Paradox",
+            "Book ID": 1205,
+            "Author Name": "David Chen",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Vortices of Time",
+            "Book ID": 1206,
+            "Author Name": "Sophia Blackwood",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Locked Room Mystery",
+            "Book ID": 1207,
+            "Author Name": "Lucas Sterling",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Whispers of the Heart",
+            "Book ID": 1208,
+            "Author Name": "Aria Mercer",
+            "Book Genre": "Emotional",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Fall of Constantinople",
+            "Book ID": 1209,
+            "Author Name": "Oliver Hayes",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Unstoppable Drive",
+            "Book ID": 1210,
+            "Author Name": "Emma Drake",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Moonlight Whispers",
+            "Book ID": 1211,
+            "Author Name": "Arthur Sterling",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Starlight Pioneer",
+            "Book ID": 1212,
+            "Author Name": "Elena Vance",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Enchanted Throne",
+            "Book ID": 1213,
+            "Author Name": "Marcus Higgins",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Zero Hour",
+            "Book ID": 1214,
+            "Author Name": "Clara Chen",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Lost Manuscript",
+            "Book ID": 1215,
+            "Author Name": "David Rostova",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Chamber of Secrets",
+            "Book ID": 1216,
+            "Author Name": "Sophia Mercer",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Quantum Leap",
+            "Book ID": 1217,
+            "Author Name": "Lucas Thorne",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Broken Wings",
+            "Book ID": 1218,
+            "Author Name": "Aria Drake",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Rise of Rome",
+            "Book ID": 1219,
+            "Author Name": "Oliver Blackwood",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Calm Mind",
+            "Book ID": 1220,
+            "Author Name": "Emma Hayes",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Andromeda Strain",
+            "Book ID": 1221,
+            "Author Name": "Arthur Chen",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Spartan Shield",
+            "Book ID": 1222,
+            "Author Name": "Elena Thorne",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Silent Tears 2",
+            "Book ID": 1223,
+            "Author Name": "Marcus Rostova",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Curse of the Crypt",
+            "Book ID": 1224,
+            "Author Name": "Clara Vance",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Silver Blade",
+            "Book ID": 1225,
+            "Author Name": "David Sterling",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Night Stalker",
+            "Book ID": 1226,
+            "Author Name": "Sophia Hayes",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Forest of Dreams",
+            "Book ID": 1227,
+            "Author Name": "Lucas Mercer",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Autumn Leaves",
+            "Book ID": 1228,
+            "Author Name": "Aria Higgins",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Hyperion Breach",
+            "Book ID": 1229,
+            "Author Name": "Oliver Drake",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Grit and Grace",
+            "Book ID": 1230,
+            "Author Name": "Emma Blackwood",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Missing Diadem",
+            "Book ID": 1231,
+            "Author Name": "Arthur Hayes",
+            "Book Genre": "Mystery",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Pharaoh's Tomb",
+            "Book ID": 1232,
+            "Author Name": "Elena Mercer",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Phantom in the Mirror",
+            "Book ID": 1233,
+            "Author Name": "Marcus Drake",
+            "Book Genre": "Horror",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Ray of Sunshine",
+            "Book ID": 1234,
+            "Author Name": "Clara Sterling",
+            "Book Genre": "Emotional",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Wormhole Chronicles",
+            "Book ID": 1235,
+            "Author Name": "David Vance",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Operative",
+            "Book ID": 1236,
+            "Author Name": "Sophia Higgins",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Love by the Sea",
+            "Book ID": 1237,
+            "Author Name": "Lucas Blackwood",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Slayer of Beasts",
+            "Book ID": 1238,
+            "Author Name": "Aria Rostova",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Midnight Murders",
+            "Book ID": 1239,
+            "Author Name": "Oliver Thorne",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Mindfulness First",
+            "Book ID": 1240,
+            "Author Name": "Emma Chen",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Pegasus Tale",
+            "Book ID": 1241,
+            "Author Name": "Arthur Drake",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Cryo Sleep",
+            "Book ID": 1242,
+            "Author Name": "Elena Higgins",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Unspoken Words",
+            "Book ID": 1243,
+            "Author Name": "Marcus Blackwood",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "House of Shadows",
+            "Book ID": 1244,
+            "Author Name": "Clara Rostova",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Sniper",
+            "Book ID": 1245,
+            "Author Name": "David Mercer",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Age of Enlightenment",
+            "Book ID": 1246,
+            "Author Name": "Sophia Vance",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Winter Warmth",
+            "Book ID": 1247,
+            "Author Name": "Lucas Thorne",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Grief and Healing",
+            "Book ID": 1248,
+            "Author Name": "Aria Chen",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Mystic Wand",
+            "Book ID": 1249,
+            "Author Name": "Oliver Sterling",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Morning Routine",
+            "Book ID": 1250,
+            "Author Name": "Emma Mercer",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Dune Explorer",
+            "Book ID": 1251,
+            "Author Name": "Arthur Blackwood",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The French Revolution",
+            "Book ID": 1252,
+            "Author Name": "Elena Chen",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Haunted Asylum",
+            "Book ID": 1253,
+            "Author Name": "Marcus Sterling",
+            "Book Genre": "Horror",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Poison Pill",
+            "Book ID": 1254,
+            "Author Name": "Clara Hayes",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Soul Connection",
+            "Book ID": 1255,
+            "Author Name": "David Drake",
+            "Book Genre": "Emotional",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Covert Warfare",
+            "Book ID": 1256,
+            "Author Name": "Sophia Rostova",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Deep Space Voyager",
+            "Book ID": 1257,
+            "Author Name": "Lucas Vance",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Faerie Tale",
+            "Book ID": 1258,
+            "Author Name": "Aria Thorne",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Stolen Kisses",
+            "Book ID": 1259,
+            "Author Name": "Oliver Higgins",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Habits for Life",
+            "Book ID": 1260,
+            "Author Name": "Emma Vance",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Aztec Gold",
+            "Book ID": 1261,
+            "Author Name": "Arthur Rostova",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Singularity",
+            "Book ID": 1262,
+            "Author Name": "Elena Drake",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Torn Hearts",
+            "Book ID": 1263,
+            "Author Name": "Marcus Mercer",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Voices of the Dead",
+            "Book ID": 1264,
+            "Author Name": "Clara Blackwood",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Alibi",
+            "Book ID": 1265,
+            "Author Name": "David Higgins",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Hostate Situation",
+            "Book ID": 1266,
+            "Author Name": "Sophia Sterling",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Realm of Fire",
+            "Book ID": 1267,
+            "Author Name": "Lucas Hayes",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Spring Blossom",
+            "Book ID": 1268,
+            "Author Name": "Aria Vance",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Beyond Mars",
+            "Book ID": 1269,
+            "Author Name": "Oliver Chen",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Financial Growth",
+            "Book ID": 1270,
+            "Author Name": "Emma Rostova",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Ancient Civilizations 2",
+            "Book ID": 1271,
+            "Author Name": "Arthur Higgins",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Nightmare Alley",
+            "Book ID": 1272,
+            "Author Name": "Elena Sterling",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Tears of Redemption",
+            "Book ID": 1273,
+            "Author Name": "Marcus Chen",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Murder on the Orient",
+            "Book ID": 1274,
+            "Author Name": "Clara Thorne",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Code Red",
+            "Book ID": 1275,
+            "Author Name": "David Blackwood",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Enchanted Shield",
+            "Book ID": 1276,
+            "Author Name": "Sophia Drake",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Endless Summer",
+            "Book ID": 1277,
+            "Author Name": "Lucas Rostova",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Time Traveler 2",
+            "Book ID": 1278,
+            "Author Name": "Aria Sterling",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "World War Tactics",
+            "Book ID": 1279,
+            "Author Name": "Oliver Mercer",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Strive for Excellence",
+            "Book ID": 1280,
+            "Author Name": "Emma Thorne",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Magic Amulet",
+            "Book ID": 1281,
+            "Author Name": "Arthur Mercer",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Solar Flare 2",
+            "Book ID": 1282,
+            "Author Name": "Elena Hayes",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Echoes of Pain",
+            "Book ID": 1283,
+            "Author Name": "Marcus Vance",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Poltergeist Return",
+            "Book ID": 1284,
+            "Author Name": "Clara Mercer",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "High Speed Chase",
+            "Book ID": 1285,
+            "Author Name": "David Thorne",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Ancient Dynasties",
+            "Book ID": 1286,
+            "Author Name": "Sophia Chen",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Love Unconditional",
+            "Book ID": 1287,
+            "Author Name": "Lucas Drake",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Crimson Clue",
+            "Book ID": 1288,
+            "Author Name": "Aria Hayes",
+            "Book Genre": "Mystery",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Outer Rim",
+            "Book ID": 1289,
+            "Author Name": "Oliver Rostova",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Atomic Mindset",
+            "Book ID": 1290,
+            "Author Name": "Emma Higgins",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Shadow Sorcerer",
+            "Book ID": 1291,
+            "Author Name": "Arthur Thorne",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The British Empire",
+            "Book ID": 1292,
+            "Author Name": "Elena Blackwood",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Whispering Woods",
+            "Book ID": 1293,
+            "Author Name": "Marcus Hayes",
+            "Book Genre": "Horror",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Finding Serenity",
+            "Book ID": 1294,
+            "Author Name": "Clara Drake",
+            "Book Genre": "Emotional",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Velocity Risk",
+            "Book ID": 1295,
+            "Author Name": "David Vance",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Secret Vault",
+            "Book ID": 1296,
+            "Author Name": "Sophia Mercer",
+            "Book Genre": "Mystery",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Star Command",
+            "Book ID": 1297,
+            "Author Name": "Lucas Sterling",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Soulmates Forever",
+            "Book ID": 1298,
+            "Author Name": "Aria Blackwood",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Elven Kingdom",
+            "Book ID": 1299,
+            "Author Name": "Oliver Vance",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Limitless Potential",
+            "Book ID": 1300,
+            "Author Name": "Emma Sterling",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Quantum Void",
+            "Book ID": 1301,
+            "Author Name": "Arthur Vance",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Rise of Dragons",
+            "Book ID": 1302,
+            "Author Name": "Elena Rostova",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Nightmare in Suburbia",
+            "Book ID": 1303,
+            "Author Name": "Marcus Thorne",
+            "Book Genre": "Horror",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Eternal Vows",
+            "Book ID": 1304,
+            "Author Name": "Clara Higgins",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Hacker's Game",
+            "Book ID": 1305,
+            "Author Name": "David Chen",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Starlight Odyssey 2",
+            "Book ID": 1306,
+            "Author Name": "Sophia Blackwood",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Missing Witness",
+            "Book ID": 1307,
+            "Author Name": "Lucas Sterling",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Tears in the Rain",
+            "Book ID": 1308,
+            "Author Name": "Aria Mercer",
+            "Book Genre": "Emotional",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Medieval Siege",
+            "Book ID": 1309,
+            "Author Name": "Oliver Hayes",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Peak Productivity",
+            "Book ID": 1310,
+            "Author Name": "Emma Drake",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "A Walk in the Park",
+            "Book ID": 1311,
+            "Author Name": "Arthur Sterling",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Cyber Revolution",
+            "Book ID": 1312,
+            "Author Name": "Elena Vance",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Wizards of Old",
+            "Book ID": 1313,
+            "Author Name": "Marcus Higgins",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Infiltrator",
+            "Book ID": 1314,
+            "Author Name": "Clara Chen",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Aztec Temple",
+            "Book ID": 1315,
+            "Author Name": "David Rostova",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Staff of Wisdom",
+            "Book ID": 1316,
+            "Author Name": "Sophia Mercer",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Space Explorer 5",
+            "Book ID": 1317,
+            "Author Name": "Lucas Thorne",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Emotional Strength",
+            "Book ID": 1318,
+            "Author Name": "Aria Drake",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Cold War Era",
+            "Book ID": 1319,
+            "Author Name": "Oliver Blackwood",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Finding Purpose",
+            "Book ID": 1320,
+            "Author Name": "Emma Hayes",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Wormhole Passage",
+            "Book ID": 1321,
+            "Author Name": "Arthur Chen",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Roman Legion",
+            "Book ID": 1322,
+            "Author Name": "Elena Thorne",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Tears of Sadness",
+            "Book ID": 1323,
+            "Author Name": "Marcus Rostova",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Whispers in the Closet",
+            "Book ID": 1324,
+            "Author Name": "Clara Vance",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Dragon Chronicles",
+            "Book ID": 1325,
+            "Author Name": "David Sterling",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Undercover Mission",
+            "Book ID": 1326,
+            "Author Name": "Sophia Hayes",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Magical Realm",
+            "Book ID": 1327,
+            "Author Name": "Lucas Mercer",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Forever Love",
+            "Book ID": 1328,
+            "Author Name": "Aria Higgins",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Robot Awakening",
+            "Book ID": 1329,
+            "Author Name": "Oliver Drake",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "High Performance Habits",
+            "Book ID": 1330,
+            "Author Name": "Emma Blackwood",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Hidden Passage",
+            "Book ID": 1331,
+            "Author Name": "Arthur Hayes",
+            "Book Genre": "Mystery",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Dynasties of China",
+            "Book ID": 1332,
+            "Author Name": "Elena Mercer",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Poltergeist 2",
+            "Book ID": 1333,
+            "Author Name": "Marcus Drake",
+            "Book Genre": "Horror",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Overcoming Grief",
+            "Book ID": 1334,
+            "Author Name": "Clara Sterling",
+            "Book Genre": "Emotional",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Space-Time Continuum",
+            "Book ID": 1335,
+            "Author Name": "David Vance",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Mission Compromised",
+            "Book ID": 1336,
+            "Author Name": "Sophia Higgins",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "A Romance in Italy",
+            "Book ID": 1337,
+            "Author Name": "Lucas Blackwood",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Spellcaster",
+            "Book ID": 1338,
+            "Author Name": "Aria Rostova",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Shadows of Suspicion",
+            "Book ID": 1339,
+            "Author Name": "Oliver Thorne",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Self-Discipline Guide",
+            "Book ID": 1340,
+            "Author Name": "Emma Chen",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Flight of the Pegasus",
+            "Book ID": 1341,
+            "Author Name": "Arthur Drake",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Deep Freeze",
+            "Book ID": 1342,
+            "Author Name": "Elena Higgins",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Torn Between Choices",
+            "Book ID": 1343,
+            "Author Name": "Marcus Blackwood",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Terror in the Dark",
+            "Book ID": 1344,
+            "Author Name": "Clara Rostova",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Secret Agent",
+            "Book ID": 1345,
+            "Author Name": "David Mercer",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "World War II Memoirs",
+            "Book ID": 1346,
+            "Author Name": "Sophia Vance",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Love in the Snow",
+            "Book ID": 1347,
+            "Author Name": "Lucas Thorne",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Path of Healing",
+            "Book ID": 1348,
+            "Author Name": "Aria Chen",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Magic Cloak",
+            "Book ID": 1349,
+            "Author Name": "Oliver Sterling",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Mastering Habits",
+            "Book ID": 1350,
+            "Author Name": "Emma Mercer",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Galactic Conquest",
+            "Book ID": 1351,
+            "Author Name": "Arthur Blackwood",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The American Revolution",
+            "Book ID": 1352,
+            "Author Name": "Elena Chen",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Haunted Woods",
+            "Book ID": 1353,
+            "Author Name": "Marcus Sterling",
+            "Book Genre": "Horror",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Stolen Diamond",
+            "Book ID": 1354,
+            "Author Name": "Clara Hayes",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Deep Regret",
+            "Book ID": 1355,
+            "Author Name": "David Drake",
+            "Book Genre": "Emotional",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Cyber Network Attack",
+            "Book ID": 1356,
+            "Author Name": "Sophia Rostova",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Star Odyssey 3",
+            "Book ID": 1357,
+            "Author Name": "Lucas Vance",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Realm of Elves",
+            "Book ID": 1358,
+            "Author Name": "Aria Thorne",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Together Forever",
+            "Book ID": 1359,
+            "Author Name": "Oliver Higgins",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Habit Loop",
+            "Book ID": 1360,
+            "Author Name": "Emma Vance",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Ancient Civilizations 3",
+            "Book ID": 1361,
+            "Author Name": "Arthur Rostova",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Solar Flare 3",
+            "Book ID": 1362,
+            "Author Name": "Elena Drake",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Shattered Bonds",
+            "Book ID": 1363,
+            "Author Name": "Marcus Mercer",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Whispers from the Tomb",
+            "Book ID": 1364,
+            "Author Name": "Clara Blackwood",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Missing Letter",
+            "Book ID": 1365,
+            "Author Name": "David Higgins",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Tactical Assault",
+            "Book ID": 1366,
+            "Author Name": "Sophia Sterling",
+            "Book Genre": "Thriller",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Golden Sword 2",
+            "Book ID": 1367,
+            "Author Name": "Lucas Hayes",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Sunset Romance",
+            "Book ID": 1368,
+            "Author Name": "Aria Vance",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Alien Invasion",
+            "Book ID": 1369,
+            "Author Name": "Oliver Chen",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Mindfulness for Beginners",
+            "Book ID": 1370,
+            "Author Name": "Emma Rostova",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Crusades 2",
+            "Book ID": 1371,
+            "Author Name": "Arthur Higgins",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Nightmare in the Woods",
+            "Book ID": 1372,
+            "Author Name": "Elena Sterling",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Tears of Joy 3",
+            "Book ID": 1373,
+            "Author Name": "Marcus Chen",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Cold Case Solved",
+            "Book ID": 1374,
+            "Author Name": "Clara Thorne",
+            "Book Genre": "Mystery",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Hostage Exchange",
+            "Book ID": 1375,
+            "Author Name": "David Blackwood",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Magic Wand 2",
+            "Book ID": 1376,
+            "Author Name": "Sophia Drake",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Romantic Getaway 2",
+            "Book ID": 1377,
+            "Author Name": "Lucas Rostova",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Time Travel Paradox",
+            "Book ID": 1378,
+            "Author Name": "Aria Sterling",
+            "Book Genre": "Sci-fi",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Ancient Rome Chronicles",
+            "Book ID": 1379,
+            "Author Name": "Oliver Mercer",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Peak Mindset",
+            "Book ID": 1380,
+            "Author Name": "Emma Thorne",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Wizards of the Realm 2",
+            "Book ID": 1381,
+            "Author Name": "Arthur Mercer",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Black Hole Transit",
+            "Book ID": 1382,
+            "Author Name": "Elena Hayes",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Shattered Hope",
+            "Book ID": 1383,
+            "Author Name": "Marcus Vance",
+            "Book Genre": "Emotional",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Phantom",
+            "Book ID": 1384,
+            "Author Name": "Clara Mercer",
+            "Book Genre": "Horror",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Deep Infiltration",
+            "Book ID": 1385,
+            "Author Name": "David Thorne",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Viking Era",
+            "Book ID": 1386,
+            "Author Name": "Sophia Chen",
+            "Book Genre": "History",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "A Second Chance at Love",
+            "Book ID": 1387,
+            "Author Name": "Lucas Drake",
+            "Book Genre": "Romance",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Missing Evidence 2",
+            "Book ID": 1388,
+            "Author Name": "Aria Hayes",
+            "Book Genre": "Mystery",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Star Voyager",
+            "Book ID": 1389,
+            "Author Name": "Oliver Rostova",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Atomic Growth",
+            "Book ID": 1390,
+            "Author Name": "Emma Higgins",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Sorcerer's Apprentice",
+            "Book ID": 1391,
+            "Author Name": "Arthur Thorne",
+            "Book Genre": "Fantasy",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "History of Kings",
+            "Book ID": 1392,
+            "Author Name": "Elena Blackwood",
+            "Book Genre": "History",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Night Terrors",
+            "Book ID": 1393,
+            "Author Name": "Marcus Hayes",
+            "Book Genre": "Horror",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Finding Joy 2",
+            "Book ID": 1394,
+            "Author Name": "Clara Drake",
+            "Book Genre": "Emotional",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "High Voltage",
+            "Book ID": 1395,
+            "Author Name": "David Vance",
+            "Book Genre": "Thriller",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Stolen Art 2",
+            "Book ID": 1396,
+            "Author Name": "Sophia Mercer",
+            "Book Genre": "Mystery",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "Cyber Nexus 2",
+            "Book ID": 1397,
+            "Author Name": "Lucas Sterling",
+            "Book Genre": "Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Love in Venice 2",
+            "Book ID": 1398,
+            "Author Name": "Aria Blackwood",
+            "Book Genre": "Romance",
+            "Issued": "y",
+            "Returned": "n",
+            "Available": "n"
+        },
+        {
+            "Book Name": "The Magic Cloak 2",
+            "Book ID": 1399,
+            "Author Name": "Oliver Vance",
+            "Book Genre": "Fantasy",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "The Power of Mindset",
+            "Book ID": 1400,
+            "Author Name": "Emma Sterling",
+            "Book Genre": "Self-Help",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        },
+        {
+            "Book Name": "Rich dad",
+            "Book ID": 1,
+            "Author Name": "Mr.no-one",
+            "Book Genre": "history,Sci-fi",
+            "Issued": "n",
+            "Returned": "y",
+            "Available": "y"
+        }
+    ]
+}
